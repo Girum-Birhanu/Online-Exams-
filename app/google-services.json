@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852800959137",
+    "project_id": "exams-online-96287",
+    "storage_bucket": "exams-online-96287.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852800959137:android:3fda80f52bf7239f86f6e0",
+        "android_client_info": {
+          "package_name": "com.gdesign.onlineexams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5trEGK4s1IIXmlxv0mndre139UAqkdMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852800959137:android:1371252f772814db86f6e0",
+        "android_client_info": {
+          "package_name": "com.gdesignmajet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5trEGK4s1IIXmlxv0mndre139UAqkdMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
